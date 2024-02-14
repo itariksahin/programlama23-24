@@ -1,0 +1,9 @@
+sayac1=1
+while(sayac1<=10):
+    sayac2=1
+    while(sayac2<=sayac1):
+        print("*",end="")
+        sayac2=sayac2+1
+    print()
+    sayac1=sayac1+1
+print("---------")
